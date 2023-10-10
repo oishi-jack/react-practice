@@ -1,0 +1,47 @@
+header {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 5%;
+}
+
+.header-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container {
+
+    padding: 2%;
+    margin: 2%;
+}
+.link {
+    color: #000;
+    text-decoration: none;
+}
+.list {
+    border: 1px solid #000;
+    margin: 2%;
+    padding: 2%;
+}
+.date {
+    color: #515151;
+    font-size: 15px;
+}
+.title {
+    font-size: 30px;
+}
+.sentence {
+    font-size: 20px;
+}
+
+
+.form {
+    text-align: center;
+    margin: 0 auto;
+}
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
